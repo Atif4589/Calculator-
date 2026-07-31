@@ -22,12 +22,6 @@ No installation or build steps required.
 2. Open `calculator.html` in any browser
 3. Start calculating
 
-```bash
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-```
-
-Then just double-click `calculator.html`, or open it via your browser's File > Open menu.
 
 ## Usage
 
